@@ -1,4 +1,4 @@
-![logo](https://github.com/AmanPaul1/AmanPaul1/blob/main/2-Figure1-1.png)
+![logo](https://github.com/AmanPaul1/AmanPaul1/blob/main/iot-in-healthcare.jpg)
 <h1 align="center">Hi 👋, I'm Aman Paul</h1>
 <h3 align="center">Currently pursuing biomedical engineering</h3>
 
