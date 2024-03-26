@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Paul</h1>
-<h3 align="center">Currently persuing biomedical engineering</h3>
+<h3 align="center">Currently pursuing biomedical engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amanpaul1&label=Profile%20views&color=0e75b6&style=flat" alt="amanpaul1" /> </p>
 
