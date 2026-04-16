@@ -1,42 +1,42 @@
 # Hi 👋, I'm Aman Paul 🇮🇳
-**Biomedical Engineer | Quantum Machine Learning & NLP Researcher**
+**Biomedical Engineer | Computer Vision & Medical Imaging Researcher**
 
-An ambitious Biomedical Engineering graduate (Class of 2025) on a mission to bridge the gap between Healthcare and Quantum Computing. Currently focusing on developing Quantum-enhanced models for Medical Imaging and LLMs for Indian Languages.
-
----
-
-### 🚀 Research & Professional Highlights
-- 🔬 **Ongoing Collaboration:** Working on **Quantum LLMs** with mentors from **IIT Madras & Samsung (Chief Engineer)**.
-- 📖 **Published Author:** Authored a book chapter on ML in **Elsevier (LGBR)**.
-- 📝 **Under Review:** Second author for a research paper in **Pattern Recognition Letters (PRL)**.
-- 🎯 **Goal:** Completing **48 ML/Quantum projects** this year to master the NISQ era applications.
+I am a 2025 Biomedical Engineering graduate specializing in Computer Vision applications for healthcare. My work focuses on automating diagnostics through Deep Learning, particularly in Retinal Imaging and Medical Image Segmentation.
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **Languages:** Python (Expert), C++, Java (DSA), SQL.
-- **Quantum Computing:** Qiskit, PennyLane, Cirq, Quantum Gates & Circuits.
-- **Machine Learning/AI:** PyTorch, TensorFlow, Scikit-learn, HuggingFace, Ultralytics.
-- **Domain Expertise:** Medical Image Segmentation (Fundus, CT, MRI), TinyML (STM32, Arduino).
+### 🔬 Research Highlights (Vision Core)
+- 📖 **Published Author:** Authored a book chapter on **Medical Image Analysis** in **Elsevier (LGBR)**.
+- 📝 **Under Review:** Second author for a paper on advanced Vision techniques in **Pattern Recognition Letters (PRL)**.
+- 👁️ **Specialization:** End-to-end development of Fundus disease classification and Retinal vessel segmentation models.
+- 🛰️ **Extended Interest:** Exploring Vision Transformers (ViT) for object detection in satellite imagery.
 
 ---
 
-### 🧪 Current Projects
-- 🧠 **Quantum Fundus Classification:** Upgrading classical CNNs to Quantum Neural Networks for better diagnostic accuracy.
-- 🗣️ **Indic-QLLM:** Exploring Quantum Self-Attention mechanisms for Indian Language Models.
-- 🛰️ **Satellite Imagery:** Object detection and segmentation using Transformers.
+### 🛠️ Tech Stack (CV Focused)
+- **Frameworks:** PyTorch, TensorFlow, Keras.
+- **Libraries:** OpenCV, Scikit-Image, Ultralytics (YOLO), HuggingFace (Transformers).
+- **Core Skills:** Image Segmentation, Object Detection, Feature Extraction, CNN Architectures.
+- **Hardware:** TinyML for Vision (STM32, Arduino).
 
 ---
 
-### 📈 GitHub Stats
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmanPaul1&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanPaul1&layout=compact&theme=radical)
+### 🧪 Featured Vision Projects
+- 🧠 **Fundus Disease Classifier:** A deep CNN framework to detect and classify retinal pathologies.
+- 🏥 **Stroke Detection:** Working on multi-modal segmentation for CT and MRI scans.
+- 🌍 **Satellite Segmentation:** Using Transformer-based models for high-resolution aerial image analysis.
+
+---
+
+### 🚀 Current Learning & Future
+- 🧪 **Quantum Vision:** Currently exploring how **Quantum Neural Networks (QNN)** can optimize Medical Imaging (Collaborating with mentors from IIT Madras/Samsung).
+- 🎯 **Target:** Building **48 computer vision & ML projects** to master the field.
 
 ---
 
 ### 📫 Connect with me:
 - **Email:** paulaman850@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/aman-paul-4329b71b1/]
+- **LinkedIn:** [Aman Paul](https://www.linkedin.com/in/aman-paul-4329b71b1/)
 - **Portfolio:** [AmanPaul1.github.io](https://AmanPaul1.github.io)
 
-"Turning complex biological data into quantum insights." ⚛️🧬
+"Decoding medical pixels into life-saving insights." 🩺🔬
