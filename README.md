@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ The Multilingual Engineer
-I don't just write code; I design customized systems. From low-level hardware to high-level deep learning.
+I design customized systems. From low-level hardware to high-level deep learning.
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![MATLAB](https://img.shields.io/badge/MATLAB-%23ED1967.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
